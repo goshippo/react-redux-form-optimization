@@ -1,0 +1,22 @@
+.App {
+}
+
+.App-logo {
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color:white;
+  color: white;
+  text-align: center;
+}
+
+.form_wrapper {
+  margin-bottom: 14px;
+}
+
+.form_wrapper label {
+  margin-bottom : 4px;
+  display: block;
+}
